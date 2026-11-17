@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+dataset/*
+!dataset/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.joblib
