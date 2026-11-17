@@ -1,0 +1,44 @@
+{
+  "total_images": 3034,
+  "training_images": 2275,
+  "testing_images": 759,
+  "classes": [
+    "Bike",
+    "bus",
+    "car",
+    "fire_truck",
+    "helicopter",
+    "hovercraft",
+    "jet_ski",
+    "kayak",
+    "motorcycle",
+    "rickshaw",
+    "scooter",
+    "segway",
+    "skateboard",
+    "tractor",
+    "truck",
+    "van"
+  ],
+  "baseline_accuracy": 0.4505928853754941,
+  "best_cluster_count": 64,
+  "best_accuracy": 0.3201581027667984,
+  "results": [
+    {
+      "cluster_centers": 8,
+      "test_accuracy": 0.23583662714097497
+    },
+    {
+      "cluster_centers": 16,
+      "test_accuracy": 0.28063241106719367
+    },
+    {
+      "cluster_centers": 32,
+      "test_accuracy": 0.29117259552042163
+    },
+    {
+      "cluster_centers": 64,
+      "test_accuracy": 0.3201581027667984
+    }
+  ]
+}

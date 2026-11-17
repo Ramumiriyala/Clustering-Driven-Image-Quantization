@@ -1,0 +1,22 @@
+              precision    recall  f1-score   support
+
+        Bike       0.17      0.13      0.15        15
+         bus       0.40      0.30      0.35        46
+         car       0.22      0.26      0.24        47
+  fire_truck       0.33      0.35      0.34        46
+  helicopter       0.44      0.43      0.44        46
+  hovercraft       0.20      0.22      0.21        46
+     jet_ski       0.37      0.43      0.40        47
+       kayak       0.31      0.30      0.30        47
+  motorcycle       0.33      0.25      0.29        48
+    rickshaw       0.35      0.46      0.40        46
+     scooter       0.37      0.33      0.35        49
+      segway       0.37      0.36      0.37        47
+  skateboard       0.38      0.30      0.34        46
+     tractor       0.25      0.29      0.27        48
+       truck       0.29      0.32      0.31        88
+         van       0.33      0.28      0.30        47
+
+    accuracy                           0.32       759
+   macro avg       0.32      0.31      0.31       759
+weighted avg       0.32      0.32      0.32       759
